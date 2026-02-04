@@ -5,68 +5,16 @@
 </p>
 
 ---
+# 💫 About Me:
+<h1 align="center">Hi there, I'm Shreya Bhat 👋</h1><br><br><p align="center"><br>  <em>💡 Data Science Enthusiast | Python | SQL | Bangalore, India</em><br></p><br><br>---<br><br>### 👩‍💻 About Me<br>I’m a passionate and curious data science enthusiast who loves transforming data into actionable insights.  <br>With a strong foundation in **Python**, **Machine Learning**, and **SQL**, I aim to bridge the gap between raw data and meaningful decisions.  <br>Currently, I’m expanding my expertise in **Business Intelligence (Tableau, Power BI)** and exploring full-stack tools like **React.js** and **Django** to build data-driven applications.<br><br>---<br><br>### 🎯 Career Goal<br>📈 **Seeking Data Scientist roles** where I can apply analytical thinking, modeling skills, and a business-first approach to solve real-world problems.<br><br>---<br><br>### ⚙️ Technical Skills<br>| Category | Tools & Technologies |<br>|-----------|----------------------|<br>| **Programming** | Python, SQL, JavaScript |<br>| **Data Science / ML** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |<br>| **Data Visualization** | Tableau, Power BI, Excel |<br>| **Web Development** | Django, MERN Stack (MongoDB, Express, React, Node.js) |<br>| **Version Control / Others** | Git, GitHub, Jupyter Notebook |<br><br>---<br><br>### 🚀 Projects<br>Here are some of my highlighted projects (more coming soon 🔥):<br>- 🧠 **Disease Prediction using Machine Learning** — Predict diseases based on symptoms and suggest preventive actions.  <br>- 📰 **Fake News Detection** — NLP-based text classification model using TF-IDF and Logistic Regression.  <br>- 🏠 **House Price Prediction** — Regression model using feature engineering and visualization.  <br>- 📊 **Customer Segmentation Dashboard** — K-Means clustering with interactive dashboard in Power BI.<br><br>> 📌 *Visit my repositories for more projects & notebooks!*<br><br>---<br><br>### 📫 Connect With Me<br><p align="left"><br>  <a href="mailto:shreyabhat545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>  <a href="https://www.linkedin.com/in/shreya-bhat-3169b1248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br></p><br><br>---<br><br>### 📊 GitHub Analytics<br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=shreyabhat&show_icons=true&theme=radical" alt="Shreya's GitHub Stats" height="165"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat&layout=compact&theme=radical" alt="Top Languages" height="165"/><br></p><br><br>---<br><br>### 🌱 What I’m Currently Doing<br>- Practicing **EDA & Visualization** on real-world datasets  <br>- Building **ML-based applications** and dashboards  <br>- Enhancing my **full-stack skills** to deploy ML models  <br>- Contributing regularly to **open-source & personal projects**<br><br>---<br><br>### 🧩 Fun Fact<br>> "Data tells stories — you just need the right lens to read them."<br><br>---<br><br>⭐️ *If you find my projects interesting, don’t forget to give them a star!*<br>
 
-### 👩‍💻 About Me
-I’m a passionate and curious data science enthusiast who loves transforming data into actionable insights.  
-With a strong foundation in **Python**, **Machine Learning**, and **SQL**, I aim to bridge the gap between raw data and meaningful decisions.  
-Currently, I’m expanding my expertise in **Business Intelligence (Tableau, Power BI)** and exploring full-stack tools like **React.js** and **Django** to build data-driven applications.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyabhat.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyabhat11) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shreya bhat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyabhat545@gmail.com) 
 
-### 🎯 Career Goal
-📈 **Seeking Data Scientist roles** where I can apply analytical thinking, modeling skills, and a business-first approach to solve real-world problems.
-
----
-
-### ⚙️ Technical Skills
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Programming** | Python, SQL, JavaScript |
-| **Data Science / ML** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
-| **Data Visualization** | Tableau, Power BI, Excel |
-| **Web Development** | Django, MERN Stack (MongoDB, Express, React, Node.js) |
-| **Version Control / Others** | Git, GitHub, Jupyter Notebook |
-
----
-
-### 🚀 Projects
-Here are some of my highlighted projects (more coming soon 🔥):
-- 🧠 **Disease Prediction using Machine Learning** — Predict diseases based on symptoms and suggest preventive actions.  
-- 📰 **Fake News Detection** — NLP-based text classification model using TF-IDF and Logistic Regression.  
-- 🏠 **House Price Prediction** — Regression model using feature engineering and visualization.  
-- 📊 **Customer Segmentation Dashboard** — K-Means clustering with interactive dashboard in Power BI.
-
-> 📌 *Visit my repositories for more projects & notebooks!*
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="mailto:shreyabhat545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shreya-bhat-3169b1248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyabhat&show_icons=true&theme=radical" alt="Shreya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 🌱 What I’m Currently Doing
-- Practicing **EDA & Visualization** on real-world datasets  
-- Building **ML-based applications** and dashboards  
-- Enhancing my **full-stack skills** to deploy ML models  
-- Contributing regularly to **open-source & personal projects**
-
----
-
-### 🧩 Fun Fact
-> "Data tells stories — you just need the right lens to read them."
-
----
-
-⭐️ *If you find my projects interesting, don’t forget to give them a star!*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=plastic&logo=phoenixframework&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shreyabhat11&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shreyabhat11&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyabhat11&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
