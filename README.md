@@ -50,8 +50,8 @@ Here are some of my highlighted projects (more coming soon 🔥):
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyabhat&show_icons=true&theme=radical" alt="Shreya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyabhat11&show_icons=true&theme=radical" alt="Shreya's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyabhat11&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
