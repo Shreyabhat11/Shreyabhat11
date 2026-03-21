@@ -51,12 +51,14 @@ Here are some of my highlighted projects (more coming soon 🔥):
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyabhat11&theme=radical" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyabhat11&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyabhat11&theme=tokyonight&column=7" alt="Trophies" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyabhat11&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyabhat11&theme=tokyonight" width="100%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyabhat11&theme=tokyonight" alt="GitHub Streak" />
+
   <img src="https://metrics.lecoq.io/Shreyabhat11?template=classic&languages=1&languages.sections=most-used" alt="Detailed Metrics" />
 </p>
 
