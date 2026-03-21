@@ -57,6 +57,9 @@ Here are some of my highlighted projects (more coming soon 🔥):
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyabhat11&theme=radical" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyabhat11&theme=radical" width="100%" />
+</p>
 
 ---
 
