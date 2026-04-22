@@ -70,8 +70,9 @@ Here are some of my highlighted projects (more coming soon 🔥):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyabhat11&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyabhat11&theme=github-dark" width="100%"/>
 </p>
+
 
 ---
 ### 🛠 Tech Stack
